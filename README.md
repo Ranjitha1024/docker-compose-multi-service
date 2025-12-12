@@ -58,6 +58,3 @@ Install the following:
 - Docker Compose (comes with Docker Desktop)  
 - Visual Studio Code  
 - Git  
-
-
-
